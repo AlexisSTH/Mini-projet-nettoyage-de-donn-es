@@ -1,0 +1,31 @@
+client_id,nom,email,telephone,age,ville,date_inscription,montant_achats,nb_commandes,categorie_preferee,newsletter
+1,Martin Dupont,martin.dupont@gmail.com,0612345678,25.0,Paris,2023-01-15,150.5,3.0,Électronique,oui
+2,marie claire,marie.claire@yahoo.fr,06 23 45 67 89,34.0,paris,15/02/2023,230.0,5.0,Mode,OUI
+3,JEAN PETIT,JEAN.PETIT@GMAIL.COM,+33634567890,-5.0,LYON,2023-03-20,-50.0,0.0,electronique,non
+4,Sophie Martin,sophie.martin@hotmail.com,0645678901,45.0,Marseille,20-04-2023,89.99,2.0,Maison,Oui
+5,Pierre  Durand,pierre.durand@gmail.com,06.56.78.90.12,156.0,Lyon,2023/05/10,1500.0,25.0,SPORT,1
+6,,client6@test.com,,29.0,Bordeaux,2023-06-25,,,,Non
+7,Lucas Bernard,lucas.bernard@orange.fr,0678901234,38.0,Toulouse,01-07-2023,320.75,8.0,Mode,oui
+8,emma WILSON,emma.wilson@gmail.com,06-89-01-23-45,,paris ,2023-08-30,45.0,1.0,mode,
+9,Thomas Leroy,invalide-email,123456,52.0, Nantes,2023-09-12,999999.99,150.0,Électronique,NON
+10,Julie Moreau,julie.moreau@sfr.fr,0601234567,41.0,Strasbourg,12/10/2023,178.25,4.0,Maison,oui
+11,Antoine Roux,antoine.roux@gmail.com,0612121212,33.0,Montpellier,2023-11-05,267.8,6.0,Sport,0
+12,Camille Fournier,camille@test,,27.0,bordeaux,2023-12-18,134.5,3.0,Beauté,non
+13,Nicolas Girard,nicolas.girard@yahoo.fr,0634343434,,Lille,2024-01-22,,,beaute,Oui
+14,Laura Bonnet,laura.bonnet@gmail.com,0645454545,48.0,Rennes,22/02/2024,445.0,12.0,Électronique,oui
+15,Maxime Dupuis,maxime@dupuis.fr,0656565656,31.0,NICE,2024-03-08,89.0,2.0,Mode,Non
+2,marie claire,marie.claire@yahoo.fr,06 23 45 67 89,34.0,paris,15/02/2023,230.0,5.0,Mode,OUI
+17,Pauline Lambert,pauline.lambert@orange.fr,0678787878,22.0,Toulon,2024-04-14,56.75,1.0,,
+18,Vincent Faure,,0689898989,55.0,Grenoble,14-05-2024,890.25,15.0,Maison,oui
+19,Céline André,celine.andre@gmail.com,0690909090,43.0,Dijon,2024/06/19,234.5,5.0,Sport,non
+20,Romain Mercier,romain.mercier@hotmail.com,0601010101,36.0,Angers,2024-07-25,167.0,4.0,Beauté,Oui
+21,Amélie Simon,amelie.simon@sfr.fr,0612131415,,Le Mans,25-08-2024,,,Électronique,1
+22,,client22@email.com,0623242526,29.0,,2024-09-30,78.9,2.0,Mode,non
+23,Florian Michel,florian.michel@gmail.com,,44.0,Clermont,30/10/2024,345.6,7.0,,oui
+24,Charlotte Garcia,charlotte.garcia@yahoo.fr,0645464748,39.0,Brest,2024-11-11,123.45,3.0,Maison,Non
+25,Julien Martinez,julien.martinez@test.fr,0656575859,26.0,Tours,2024-12-05,567.89,11.0,Sport,0
+26,Manon Lopez,manon.lopez@gmail.com,0667686970,51.0,Limoges,,234.56,5.0,Beauté,oui
+27,Alexandre Gonzalez,,0678798081,35.0,Amiens,2023-02-28,789.01,14.0,Électronique,non
+28,Océane Sanchez,oceane.sanchez@orange.fr,0689909192,,Perpignan,28/03/2023,,,Mode,
+29,Quentin Muller,quentin.muller@sfr.fr,0600010203,47.0,,2023-04-15,456.78,9.0,Maison,Oui
+30,Léa Schmidt,lea.schmidt@gmail.com,0611121314,30.0,Orléans,2023-05-20,321.09,6.0,Sport,oui
