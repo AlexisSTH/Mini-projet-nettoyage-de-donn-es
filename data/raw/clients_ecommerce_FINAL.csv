@@ -7,7 +7,6 @@ client_id,nom,email,telephone,age,ville,date_inscription,montant_achats,nb_comma
 6,Client Inconnu,client6@test.com,Non renseigné,29.0,BORDEAUX,2023-06-25,0.0,0.0,Non définie,False
 7,Lucas Bernard,lucas.bernard@orange.fr,06 78 90 12 34,38.0,TOULOUSE,2023-07-01,320.75,8.0,Vêtements,True
 8,Emma Wilson,emma.wilson@gmail.com,06 89 01 23 45,35.5,PARIS,2023-08-30,45.0,1.0,Vêtements,False
-9,Thomas Leroy,invalide-email,Format invalide,52.0,NANTES,2023-09-12,9999.0,150.0,Électronique,False
 10,Julie Moreau,julie.moreau@sfr.fr,06 01 23 45 67,41.0,STRASBOURG,2023-10-12,178.25,4.0,Maison,True
 11,Antoine Roux,antoine.roux@gmail.com,06 12 12 12 12,33.0,MONTPELLIER,2023-11-05,267.8,6.0,Sports,False
 12,Camille Fournier,camille@test,Non renseigné,27.0,BORDEAUX,2023-12-18,134.5,3.0,Beauté,False
