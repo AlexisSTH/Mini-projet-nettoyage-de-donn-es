@@ -1,0 +1,30 @@
+client_id,nom,email,telephone,age,ville,date_inscription,montant_achats,nb_commandes,categorie_preferee,newsletter
+1,Martin Dupont,martin.dupont@gmail.com,06 12 34 56 78,25.0,PARIS,2023-01-15,150.5,3.0,Électronique,True
+2,Marie Claire,marie.claire@yahoo.fr,06 23 45 67 89,34.0,PARIS,2023-02-15,230.0,5.0,Vêtements,True
+3,Jean Petit,jean.petit@gmail.com,06 34 56 78 90,35.5,LYON,2023-03-20,50.0,0.0,Électronique,False
+4,Sophie Martin,sophie.martin@hotmail.com,06 45 67 89 01,45.0,MARSEILLE,2023-04-20,89.99,2.0,Maison,True
+5,Pierre Durand,pierre.durand@gmail.com,06 56 78 90 12,35.5,LYON,2023-05-10,1500.0,25.0,Sports,True
+6,Client Inconnu,client6@test.com,Non renseigné,29.0,BORDEAUX,2023-06-25,0.0,0.0,Non définie,False
+7,Lucas Bernard,lucas.bernard@orange.fr,06 78 90 12 34,38.0,TOULOUSE,2023-07-01,320.75,8.0,Vêtements,True
+8,Emma Wilson,emma.wilson@gmail.com,06 89 01 23 45,35.5,PARIS,2023-08-30,45.0,1.0,Vêtements,False
+9,Thomas Leroy,invalide-email,Format invalide,52.0,NANTES,2023-09-12,9999.0,150.0,Électronique,False
+10,Julie Moreau,julie.moreau@sfr.fr,06 01 23 45 67,41.0,STRASBOURG,2023-10-12,178.25,4.0,Maison,True
+11,Antoine Roux,antoine.roux@gmail.com,06 12 12 12 12,33.0,MONTPELLIER,2023-11-05,267.8,6.0,Sports,False
+12,Camille Fournier,camille@test,Non renseigné,27.0,BORDEAUX,2023-12-18,134.5,3.0,Beauté,False
+13,Nicolas Girard,nicolas.girard@yahoo.fr,06 34 34 34 34,35.5,LILLE,2024-01-22,0.0,0.0,Beaute,True
+14,Laura Bonnet,laura.bonnet@gmail.com,06 45 45 45 45,48.0,RENNES,2024-02-22,445.0,12.0,Électronique,True
+15,Maxime Dupuis,maxime@dupuis.fr,06 56 56 56 56,31.0,NICE,2024-03-08,89.0,2.0,Vêtements,False
+17,Pauline Lambert,pauline.lambert@orange.fr,06 78 78 78 78,22.0,TOULON,2024-04-14,56.75,1.0,Non définie,False
+18,Vincent Faure,client_18@temp.com,06 89 89 89 89,55.0,GRENOBLE,2024-05-14,890.25,15.0,Maison,True
+19,Céline André,celine.andre@gmail.com,06 90 90 90 90,43.0,DIJON,2024-06-19,234.5,5.0,Sports,False
+20,Romain Mercier,romain.mercier@hotmail.com,06 01 01 01 01,36.0,ANGERS,2024-07-25,167.0,4.0,Beauté,True
+21,Amélie Simon,amelie.simon@sfr.fr,06 12 13 14 15,35.5,LE MANS,2024-08-25,0.0,0.0,Électronique,True
+22,Client Inconnu,client22@email.com,06 23 24 25 26,29.0,PARIS,2024-09-30,78.9,2.0,Vêtements,False
+23,Florian Michel,florian.michel@gmail.com,Non renseigné,44.0,CLERMONT,2024-10-30,345.6,7.0,Non définie,True
+24,Charlotte Garcia,charlotte.garcia@yahoo.fr,06 45 46 47 48,39.0,BREST,2024-11-11,123.45,3.0,Maison,False
+25,Julien Martinez,julien.martinez@test.fr,06 56 57 58 59,26.0,TOURS,2024-12-05,567.89,11.0,Sports,False
+26,Manon Lopez,manon.lopez@gmail.com,06 67 68 69 70,51.0,LIMOGES,2026-02-02,234.56,5.0,Beauté,True
+27,Alexandre Gonzalez,client_27@temp.com,06 78 79 80 81,35.0,AMIENS,2023-02-28,789.01,14.0,Électronique,False
+28,Océane Sanchez,oceane.sanchez@orange.fr,06 89 90 91 92,35.5,PERPIGNAN,2023-03-28,0.0,0.0,Vêtements,False
+29,Quentin Muller,quentin.muller@sfr.fr,06 00 01 02 03,47.0,PARIS,2023-04-15,456.78,9.0,Maison,True
+30,Léa Schmidt,lea.schmidt@gmail.com,06 11 12 13 14,30.0,ORLÉANS,2023-05-20,321.09,6.0,Sports,True
